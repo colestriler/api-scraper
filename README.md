@@ -1,7 +1,7 @@
 # API Scraper
 
 ### What
-Python scripts that scrape public APIs.
+Python scripts that scrape public APIs and store the outputs as .csv files.
 
 ### Why
 There are many ways to collect data from the web. One way is to use a HTML scraper such as [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/). The problem with scraping directly from a site's page, however, is that your scraper will need to be redesigned after every major change to the site's HTML or CSS.
