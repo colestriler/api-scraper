@@ -12,4 +12,4 @@ A more sophisticated approach to scraping data from the web is to tap into the A
 1. Clone the repo
   a. If you don't clone the repo and decide to run the Python script directly, make sure to create a `data/` folder in the same directory as the Python script.
 2. Adjust any values inside the script.
-2. Run `python <SCRIPT_NAME>.py and your output will be created in the `data/` directory.
+2. Run `python <SCRIPT_NAME>.py` and your output will be created in the `data/` directory.
