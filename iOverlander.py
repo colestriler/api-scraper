@@ -40,7 +40,7 @@ group_size -> If you read the code below, you'll see that the URL that hits the 
 
     You COULD make this happen by incrementing one of the four numbers by 1 until you hit
     all possible combinations of min_lat, max_lat, min_lon, max_lon, but since there are
-    4,269,446,281 possible combinations, this will also take a long time.
+    4,269,446,281 (181 * 181 * 361 * 361) possible combinations, this will also take a long time.
     i.e.
         Call 1: min_lat = -90, max_lat = 90, min_lon=-180, max_lon=180
         Call 2: min_lat = -89, max_lat = 90, min_lon=-180, max_lon=180
