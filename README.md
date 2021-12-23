@@ -14,4 +14,4 @@ A more sophisticated approach to scraping data from the web is to tap into the A
 2. Run `python <FILENAME>.py` in terminal and your output will be created in the `data/` directory.
 
 # Scrapers
-- [iOverlander](https://github.com/colestriler/api-scraper/blob/main/iOverlander.py): iOverlander is a database of places for overlanders and travelers.
+- [iOverlander](https://github.com/colestriler/api-scraper/blob/main/iOverlander.py): a database of places for overlanders and travelers.
